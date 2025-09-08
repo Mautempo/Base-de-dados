@@ -1,20 +1,47 @@
 [
-    {
-        titulo: "BS Lascora Ft King Iran - Vai (Vídeo)",
-        link: "/2025/08/bs-lascora-ft-king-iran-vai-video.html",
-        capa: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTG169DO4ADjdB3S_G1aswznGooPgrY58ZBc5vGPCjbAGuV9Y79soXdoQJPdckRCJzmRz6vOvimpfTunfqy8rc7Ah6GP4dLzz3Jn8fFgTFMfLwXldmVStJM1FNhvhQSk-lQyUfffZsflCwsWVsRpSMZ7_0KZbkMfxUJDhoPbIC_GrOSjMEdABVRZa3EA/s320/Kinkg%20Iran%20video.jpeg",
-        credito: "@vibes-daki"
-      },
-      {
-        titulo: "Kreiva - Maluco (Vídeo)",
-        link: "/2025/08/kreiva-maluco-video.html",
-        capa: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOf0sElFjfq13YHbZc_n5eTS4rhHAwlwcOdlu2-QKL5NUwAoxi4I09h-Q7g81-0MiiNISM4NAFFiCgqN_qTOLdf9DKOOOVqQAVZr_8W02ZbuHQO5KbfyhMmCyHIWVdho71usOAVym2dLtOgI5A9D5QBZCOTHQAuRSZcJ27_R0uxu2SGabb26pQpZeL_gQ/s320/kreiva%20maluco.jpg",
-        credito: "@vibes-daki"
-      },
-      {
-        titulo: "BS Lascora Ft King Iran - Vai (Vídeo)",
-        link: "/2025/08/bs-lascora-ft-king-iran-vai-video.html",
-        capa: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTG169DO4ADjdB3S_G1aswznGooPgrY58ZBc5vGPCjbAGuV9Y79soXdoQJPdckRCJzmRz6vOvimpfTunfqy8rc7Ah6GP4dLzz3Jn8fFgTFMfLwXldmVStJM1FNhvhQSk-lQyUfffZsflCwsWVsRpSMZ7_0KZbkMfxUJDhoPbIC_GrOSjMEdABVRZa3EA/s320/Kinkg%20Iran%20video.jpeg",
-        credito: "@vibes-daki"
-      }
-    ]
+  {
+    "id": "1",
+    "titulo": "BS Lascora Ft King Iran - Vai (Vídeo)",
+    "artista": "",
+    "genero": "",
+    "tipo": "",
+    "ano": "",
+    "link": "/2025/08/bs-lascora-ft-king-iran-vai-video.html",
+    "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTG169DO4ADjdB3S_G1aswznGooPgrY58ZBc5vGPCjbAGuV9Y79soXdoQJPdckRCJzmRz6vOvimpfTunfqy8rc7Ah6GP4dLzz3Jn8fFgTFMfLwXldmVStJM1FNhvhQSk-lQyUfffZsflCwsWVsRpSMZ7_0KZbkMfxUJDhoPbIC_GrOSjMEdABVRZa3EA/s320/Kinkg%20Iran%20video.jpeg",
+    "credito": "@vibes-daki"
+  },
+  {
+    "id": "2",
+    "titulo": "Kreiva - Maluco (Vídeo)",
+    "artista": "",
+    "genero": "",
+    "tipo": "",
+    "ano": "",
+    "link": "/2025/08/kreiva-maluco-video.html",
+    "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOf0sElFjfq13YHbZc_n5eTS4rhHAwlwcOdlu2-QKL5NUwAoxi4I09h-Q7g81-0MiiNISM4NAFFiCgqN_qTOLdf9DKOOOVqQAVZr_8W02ZbuHQO5KbfyhMmCyHIWVdho71usOAVym2dLtOgI5A9D5QBZCOTHQAuRSZcJ27_R0uxu2SGabb26pQpZeL_gQ/s320/kreiva%20maluco.jpg",
+    "credito": "@vibes-daki"
+  }
+][
+  {
+    "id": "1",
+    "titulo": "BS Lascora Ft King Iran - Vai (Vídeo)",
+    "artista": "",
+    "genero": "",
+    "tipo": "",
+    "ano": "",
+    "link": "/2025/08/bs-lascora-ft-king-iran-vai-video.html",
+    "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTG169DO4ADjdB3S_G1aswznGooPgrY58ZBc5vGPCjbAGuV9Y79soXdoQJPdckRCJzmRz6vOvimpfTunfqy8rc7Ah6GP4dLzz3Jn8fFgTFMfLwXldmVStJM1FNhvhQSk-lQyUfffZsflCwsWVsRpSMZ7_0KZbkMfxUJDhoPbIC_GrOSjMEdABVRZa3EA/s320/Kinkg%20Iran%20video.jpeg",
+    "credito": "@vibes-daki"
+  },
+  {
+    "id": "2",
+    "titulo": "Kreiva - Maluco (Vídeo)",
+    "artista": "",
+    "genero": "",
+    "tipo": "",
+    "ano": "",
+    "link": "/2025/08/kreiva-maluco-video.html",
+    "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOf0sElFjfq13YHbZc_n5eTS4rhHAwlwcOdlu2-QKL5NUwAoxi4I09h-Q7g81-0MiiNISM4NAFFiCgqN_qTOLdf9DKOOOVqQAVZr_8W02ZbuHQO5KbfyhMmCyHIWVdho71usOAVym2dLtOgI5A9D5QBZCOTHQAuRSZcJ27_R0uxu2SGabb26pQpZeL_gQ/s320/kreiva%20maluco.jpg",
+    "credito": "@vibes-daki"
+  }
+]
