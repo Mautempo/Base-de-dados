@@ -14,7 +14,7 @@
         tamanho: "8.82 MB",
         audioSrc: "https://github.com/Mautempo/19-08-025/raw/refs/heads/main/Twenty%20Fingers%20-%20Pap%C3%A1.mp3",
         top: "",
-        imagem: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1SWdMAQlqP0K2VBWZSZerA36ilXLOdjFeK_eQK-YGuyhSHssQ-6nZCEt_ImtxgN_m4pnjiy-FhzdxKPq1SdXTR2PxL0Gjd_elVh_O2HF7hrQXRkUSmee91qIZz92Oe419sG9Q59eHxt0_qeT7KWpoVemXGYPF3AmM_QRNksmALMbIdlA8i9K7XB48Yc/s320/wawa%20dele%20promax.jpg",
+        imagem: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1SWdMAQlqP0K2VBWZSZerA36ilXLOdjFeK_eQK-YGuyhSHssQ-6nZCEt_ImtxgN_m4pnjiy-FhzdxKPq1SdXTR2PxL0Gjd_elVh_O2HF7hrQXRkUSmee91qIZz92Oe419sG9Q59eHxt0_qeT7KWpoVemXGYPF3AmM_QRNksmALMbIdlA8i9K7XB48Yc/s320/wawa%20dele%20promax.jpg"
         },
 {
         titulo: "Wawa Dele",
@@ -31,7 +31,7 @@
         ano: "2025",
         tamanho: "5.89 MB",
         top: "",
-        imagem: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1SWdMAQlqP0K2VBWZSZerA36ilXLOdjFeK_eQK-YGuyhSHssQ-6nZCEt_ImtxgN_m4pnjiy-FhzdxKPq1SdXTR2PxL0Gjd_elVh_O2HF7hrQXRkUSmee91qIZz92Oe419sG9Q59eHxt0_qeT7KWpoVemXGYPF3AmM_QRNksmALMbIdlA8i9K7XB48Yc/s320/wawa%20dele%20promax.jpg",
+        imagem: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1SWdMAQlqP0K2VBWZSZerA36ilXLOdjFeK_eQK-YGuyhSHssQ-6nZCEt_ImtxgN_m4pnjiy-FhzdxKPq1SdXTR2PxL0Gjd_elVh_O2HF7hrQXRkUSmee91qIZz92Oe419sG9Q59eHxt0_qeT7KWpoVemXGYPF3AmM_QRNksmALMbIdlA8i9K7XB48Yc/s320/wawa%20dele%20promax.jpg"
       },
 {
         titulo: "Tudo Que Preciso",
@@ -766,6 +766,5 @@ cantor: "Boy Caloss (Feat. Aicilef Waite)",
         ano: "2018",
         tamanho: "4 MB",
         top: ""
-      },
-
+      }
     ]
