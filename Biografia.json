@@ -1,7 +1,7 @@
 [
   {
     "id": "3",
-    "titulo": "Silas SK",
+    "artista": "Silas SK",
     "tipo": "Biografia",
     "descricao": "Sillas SK, nome artistico de Sillas, cantor e compositor moçambicano...",
     "link": "/2025/09/biografia-do-artista-silas-sk.html",
@@ -10,7 +10,7 @@
   },
   {
     "id": "2",
-    "titulo": "Boy Caloss",
+    "artista": "Boy Caloss",
     "tipo": "Biografia",
     "descricao": "Boy Caloss, nome artístico de Carlos Luis Mola, rapper e compositor moçambicano...",
     "link": "/2025/09/biografia-do-boy-caloss.html",
@@ -19,7 +19,7 @@
   },   
    {
     "id": "1",
-    "titulo": "Twenty Fingers",
+    "artista": "Twenty Fingers",
     "tipo": "Biografia",
     "descricao": "Twenty Fingers, também conhecido como G-Alfinar, é um músico...",
     "link": "/2025/09/biografia-de-twenty-fingers.html",
